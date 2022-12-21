@@ -32,7 +32,7 @@ Java Full Stack Developer | Cybersecurity Enthusiast
 ![](https://github-profile-trophy.vercel.app/?username=gopalakrishnan20&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?theme=merko)
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
